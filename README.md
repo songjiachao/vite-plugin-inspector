@@ -1,7 +1,7 @@
 # vite-plugin-inspector
 
 <p align="center">
-<a href="https://github.com/webfansplz/vite-plugin-inspector"><img height="200" src="https://raw.githubusercontent.com/songjiachao/images/main/vite-plugin-inspector/logo.png" alt="vite-plugin-inspector"></a>
+<a href="https://github.com/songjiachao/vite-plugin-inspector"><img height="200" src="https://raw.githubusercontent.com/songjiachao/images/main/vite-plugin-inspector/logo.png" alt="vite-plugin-inspector"></a>
 </p>
 
 <p align="center">
