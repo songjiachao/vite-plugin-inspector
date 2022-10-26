@@ -18,19 +18,21 @@ A vite plugin which provides the ability that to jump to the local IDE when you 
 
 🎉 **Almost support all web frameworks (Vue、React、Rreact、Svelte ......)**
 
-<img height="60" src="https://docs.astro.build/logos/vue.svg" />
-<img height="60" src="https://docs.astro.build/logos/react.svg" />
-<img height="60" src="https://docs.astro.build/logos/preact.svg" />
-<img height="60" src="https://docs.astro.build/logos/svelte.svg" />
+<p align="left">
+  <img height="60" src="https://docs.astro.build/logos/vue.svg" />
+  <img height="60" src="https://docs.astro.build/logos/react.svg" />
+  <img height="60" src="https://docs.astro.build/logos/preact.svg" />
+  <img height="60" src="https://docs.astro.build/logos/svelte.svg" />
+</p>
 
 👏  **Almost support all editor（Vscode、Sublime、Atom、Webstorm、IDEA ......)**
-
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antu_sublime-text.svg/640px-Antu_sublime-text.svg.png" />
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/640px-Icon_Atom.svg.png" />
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/640px-WebStorm_Icon.svg.png" />
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" />
-
+<p align="left">
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" />
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antu_sublime-text.svg/640px-Antu_sublime-text.svg.png" />
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/640px-Icon_Atom.svg.png" />
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/640px-WebStorm_Icon.svg.png" />
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" />
+</p>
 
 <br/>
 
@@ -67,6 +69,6 @@ export default defineConfig({
 
 ```ts
 interface VitePluginInspectorOptions {
-  route?: string;  // middleware listen path
+  route?: string; // middleware listen path
 }
 ```
