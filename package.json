@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-inspector",
-  "version": "0.0.2",
+  "version": "0.1.5",
   "description": "jump to local IDE source code while click the element of browser automatically.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
