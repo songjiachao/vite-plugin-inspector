@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-inspector",
-  "version": "1.0.3",
-  "description": "jump to local IDE source code while click the element of browser automatically.",
+  "version": "1.0.4",
+  "description": "Jump to local IDE source code while click the element of browser automatically.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "exports": {
