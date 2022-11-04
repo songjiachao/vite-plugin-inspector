@@ -49,7 +49,7 @@ yarn add vite-plugin-inspector -D
 npm install vite-plugin-inspector -D
 ```
 
-## 🦄 Usage
+## 🛠 Usage
 
 ### Configuration Vite
 
